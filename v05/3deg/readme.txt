@@ -1,5 +1,6 @@
 # 3deg darwin3 verification experiment with volume, salt, salinity, DIC, and FeT budget
 # diagnostics, initially based on MITgcm/verification/tutorial_global_oce_biogeo
+# updated march, 2nd, 2022
 
 # ========
 # 1. Get code
